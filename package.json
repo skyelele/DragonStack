@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react-dom": "^16.8.6"
   }
 }
